@@ -1,0 +1,12 @@
+[Message]
+messagetype=Connect
+[Connect Info]
+worldname=Chat Server
+serveraddr=127.0.0.1
+loginport=17872
+rpcport=14000
+acctname=amanda
+username=amanda
+needpassword=false
+onetimepass=123456789abcdef
+loginregion=4294967295
